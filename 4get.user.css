@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           4get Theme
 @namespace      github.com/jackchatelain/4get-theme
-@version        1.0.3
+@version        1.0.4
 @description    Better UI for 4get search engine
 @author         Jack Chatelain
 @license        BSD-2-Clause
@@ -41,5 +41,5 @@
     }
     img.openimg {
         border-radius: 12px !important;
-    ]
+    }
 }
