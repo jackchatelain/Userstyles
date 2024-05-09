@@ -1,0 +1,45 @@
+/* ==UserStyle==
+@name           4get Theme
+@namespace      github.com/jackchatelain/4get-theme
+@version        1.0.3
+@description    Better UI for 4get search engine
+@author         Jack Chatelain
+@license        BSD-2-Clause
+@updateURL      https://github.com/jackchatelain/Userstyles/raw/main/4get.user.css
+==/UserStyle== */
+
+@-moz-document domain("4get.aishiteiru.moe"), domain("4get.neco.lol"), domain("4get.silly.computer"), domain("4get.ca"), domain("4get.plunked.party"), domain("4get.lunar.icu"), domain("4get.hbubli.cc"), domain("4getus.zzls.xyz"), domain("4get.zzls.xyz"), domain("4get.sijh.net"), domain("4get.kizuki.lol") {
+    div.searchbox {
+        border-radius: 15px !important;
+        border: none !important;
+    }
+    div.autocomplete {
+        margin-top: 10px !important;
+        border-radius: 15px !important;
+        border: none !important;
+    }
+    div.entry {
+        border-radius: 12px !important;
+        border: none !important;
+        margin: 3px !important;
+    }
+    select, div.filter input {
+        border-radius: 10px !important;
+    }
+    a.tab.selected {
+        background: #cba6f7 !important;
+        color: #000 !important;
+        border: none !important;
+        border-radius: 12px !important;
+    }
+    div.thumb-wrap, table {
+        border-radius: 12px !important;
+        border: none !important;
+    }
+    label.spoiler-button, a.nextpage {
+        border-radius: 12px !important;
+    }
+    img.openimg {
+        border-radius: 12px !important;
+    ]
+}
